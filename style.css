@@ -204,6 +204,7 @@ section.about h4, section.contact h4{
 
 section.about p {
   margin-bottom: 25px;
+  text-align: justify;
 }
 
 section.contact p {
